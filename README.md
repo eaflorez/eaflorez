@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbXqqMb9lRe6HAz6a94eDQg?style=social)](https://www.youtube.com/channel/UCbXqqMb9lRe6HAz6a94eDQg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eflorez83?style=social)](https://twitter.com/eflorez83)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eflorez83/)
 
 
 
