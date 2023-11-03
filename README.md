@@ -1,4 +1,6 @@
-# ![https://mouredev.com](https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png){width=40%}
+# ![https://mouredev.com](https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png)
+<img src="https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png" width="50" height="50">
+
 
 Fuente: https://www.iteramos.com/pregunta/89805/cambiar-el-tamano-de-la-imagen-en-markdown-en-gitlab Hola, mi nombre es Eduwin Florez 👋
 ### Instructor - Consultor Empresarial
