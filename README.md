@@ -4,7 +4,8 @@
 ![Se siente diciembre](https://github.com/eaflorez/eaflorez/blob/4d997db477b87bcda9c1a5d612391bde5606f41f/se%20siente.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbXqqMb9lRe6HAz6a94eDQg)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?eflorez83)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eflorez83?style=social)](https://twitter.com/eflorez83)
+
 
 
 
