@@ -1,5 +1,4 @@
-# ![https://mouredev.com](https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png)
-<img src="https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png" width="50" height="50"> Hola, mi nombre es Eduwin Florez 👋
+# <img src="https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png" width="50"> Hola, mi nombre es Eduwin Florez 👋
 ### Instructor - Consultor Empresarial
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
